@@ -1,0 +1,8 @@
+- switch statement into polymorphic deployment
+- collapse an inheritance hierarchy into chain of command
+- Mealy / Moore state machine 
+- Transform Analysis 
+- Data flow diagram 
+- Tramp data 
+- Conascence
+- Parnas Table 
