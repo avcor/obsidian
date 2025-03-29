@@ -11,10 +11,14 @@
             "id": "7b54f96ff1689b55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "forexRetest/Patterns/RSI/RSI 3 Mountains.md",
+                "bFile": "forexRetest/Patterns/RSI/RSI 3 Mountains.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: RSI 3 Mountains"
             }
           }
         ]
@@ -111,8 +115,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b54f96ff1689b55",
+  "active": "e48e951c6b2d31b1",
   "lastOpenFiles": [
+    "forexRetest/Patterns/RSI/RSI 3 Mountains.md",
+    "forexRetest/Patterns/RSI/RSI Under Threshold.md",
     "forexRetest/Excalidraw/Drawing 2025-03-29 21.07.08.excalidraw.md"
   ]
 }
