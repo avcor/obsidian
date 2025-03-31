@@ -25,4 +25,4 @@ tags:
 - 2nd oversold or overbought could be reversal. 
   But it should be edge of S/R 🚩
 ###  Example Trades  
-- 
+- [[GBPUSD 6-3-24]]

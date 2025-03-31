@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "0320352a4f4e5428",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cdbd84b28f63df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32bf9cf4758d63f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/unknown/unknown_sideways.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "unknown_sideways"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0472aca705ef7b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb6751f06a8b55d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c078d4cc8f3b0f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eb146376eecdca59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "48eaa89dd3a78503",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc91d6ce682b4df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "becd1d2b97706eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2368d403f8bdfe1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/unknown/unknown_sideways.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for unknown_sideways"
+            }
+          },
+          {
+            "id": "6c2b489b615b962a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/unknown/unknown_sideways.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from unknown_sideways"
+            }
+          },
+          {
+            "id": "3c0160f37877edcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "40a2def123ccfafc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/unknown/unknown_sideways.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of unknown_sideways"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "32bf9cf4758d63f4",
+  "lastOpenFiles": [
+    "Excalidraw/unknown/unknown_RSI.md",
+    "Excalidraw/unknown/unknown_sideways.md",
+    "Excalidraw/unknown/unknown_N.md",
+    "Excalidraw/unknown/unknown_cup.md",
+    "Patterns/Volume/Institutional_volume.md",
+    "Patterns/Rising_Wedge/Rising wedge Success.md",
+    "Trades USD JPY/USDJPY 6-11-24.md",
+    "Patterns/Flag/Flag Delayed.md",
+    "Patterns/Flag/Ideal Flag.md",
+    "Images USD JPY/Pasted Image 20250324022538_259.png",
+    "Excalidraw/drawings/SMA-50 fall - side - fall.md",
+    "Images GBP USD/GetImage (1).png",
+    "Images GBP USD/Pasted image 20250330190627.png",
+    "Patterns/SMA/SMA-50 Already Direction.md",
+    "Trades GBP USD/GBPUSD 10-4-24.md",
+    "Trades GBP USD/GBPUSD 6-3-24.md",
+    "Trades GBP USD/GBPUSD 3-11-24.md",
+    "Patterns/RSI/RSI Outside Threshold.md",
+    "Images GBP USD/GetImage (2).png",
+    "Trades GBP USD/GBPUSD 21-2-24.md",
+    "Patterns/SMA/SMA-50 fall and continue fall.md",
+    "Images GBP USD/GetImage.png",
+    "Excalidraw/Drawing 2025-03-29 21.07.08.excalidraw.md",
+    "Trades GBP USD",
+    "Images GBP USD",
+    "Patterns/RSI/RSI 3 Mountains.md",
+    "_templates/Theories.md",
+    "Patterns/RSI/RSI Under Threshold.md",
+    "_templates/Trade - {{date}}.md",
+    "Patterns/Flag/Flag Delayed1.md",
+    "Trades USD JPY",
+    "Patterns/Triangle/Triangle.md"
+  ]
+}
