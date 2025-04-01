@@ -28,7 +28,7 @@ tags:
 
 ### Things to look out 
 - If market is sideways for around 20 days chances of breaking out
-- SMA-50 should be taken precedence 🚩
+- ==[[SMA-50 Already Direction]] should be taken precedence 🚩==
 
 ###  Example Trades  
 - 
