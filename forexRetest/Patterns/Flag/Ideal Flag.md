@@ -23,6 +23,9 @@ tags:
 ### Things to look out 
 - Don't take part in going opp direction 
 - [[Flag Delayed]]
+- ==If there is flag volume (opp.) greater than pole volume==
+  e.g. 
+  [[NZDCAD 12-6-24]]
 
 ### Take profit 
 - Length of pole 

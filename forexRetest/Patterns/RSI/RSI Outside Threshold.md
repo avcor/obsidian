@@ -17,7 +17,7 @@ tags:
 	-> Price will continue
 
 ### Conditions
-- It is better if SMA-50 is in direction 
+- It is better if SMA-50 is in direction (Approx 10 days )
 - Volume should be high 🔼
 
 ### Things to look out 

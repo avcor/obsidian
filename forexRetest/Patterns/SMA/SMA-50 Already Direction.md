@@ -10,8 +10,10 @@ tags:
 - This could be combined with [[RSI Under Threshold]] 
 	- Up Trend -> Price goes under trend 
 	- Down Trend -> vice-versa 
+- (Experimental) If RSI is oversold in a trend, there could movement sideways for some time 
 
 ### Conditions
+- 1 month duration for a particular direction, after that there is side wave. At the end of month movement starts to change toward side waves.
 - Up Trend 
 	- Up Trend -> Sideways -> Up Trend (low chances)  
 	- Up Trend -> Sideways -> Down Trend (mid chances)

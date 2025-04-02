@@ -23,7 +23,7 @@ tags:
 	-> Price will follow a drop to closest support / resistance and return to original 
 
 ### Conditions
-- Market is sideways  
+- Market is sideways  (Approx 10 days )
 - Volume should be high 🔼
 
 ### Things to look out 
