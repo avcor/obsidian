@@ -21,7 +21,7 @@ tags:
 - Best in on-Time 
 
 ### Things to look out 
-- Don't take part in going opp direction 
+- Don't take part in going opp direction of market 
 - [[Flag Delayed]]
 - ==If there is flag volume (opp.) greater than pole volume==
   e.g. 

@@ -4,63 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "f9cdbd84b28f63df",
+        "id": "b9784a29fd607e97",
         "type": "tabs",
         "children": [
           {
-            "id": "32bf9cf4758d63f4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/unknown/unknown_sideways.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "unknown_sideways"
-            }
-          },
-          {
-            "id": "b79a1966deef0367",
+            "id": "5142410915c2aac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patterns/SMA/SMA-50 Already Direction.md",
+                "file": "z_books/The Market Never Sleep/Ch - 7 Short-Term Strategies around the world.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMA-50 Already Direction"
+              "title": "Ch - 7 Short-Term Strategies around the world"
             }
           },
           {
-            "id": "d5e0309718bde6cc",
+            "id": "801f4237b4e1d946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trades NZD CAD/NZDCAD 12-6-24.md",
+                "file": "z_books/The Market Never Sleep/Ch - 5 Land of Long Siesta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NZDCAD 12-6-24"
-            }
-          },
-          {
-            "id": "46e5ec3ecc8604c4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images NZD CAD/Pasted image 20250401215840.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250401215840"
+              "title": "Ch - 5 Land of Long Siesta"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc91d6ce682b4df5",
@@ -133,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/unknown/unknown_sideways.md",
+                "file": "z_books/The Market Never Sleep/Ch - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for unknown_sideways"
+              "title": "Backlinks for Ch - 2"
             }
           },
           {
@@ -208,44 +184,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b79a1966deef0367",
+  "active": "5142410915c2aac1",
   "lastOpenFiles": [
-    "Patterns/RSI/RSI Outside Threshold.md",
+    "z_books/The Market Never Sleep/Ch - 6 The United States Steals the show.md",
+    "z_books/The Market Never Sleep/Ch - 5 Land of Long Siesta.md",
+    "z_books/The Market Never Sleep/Ch - 7 Short-Term Strategies around the world.md",
+    "z_books/The Market Never Sleep/Ch - 4 Land of the Rising Sun.md",
+    "z_books/The Market Never Sleep/_Index.md",
+    "z_books/The Market Never Sleep/Ch - 3 Getting in the Groove.md",
+    "z_books/The Market Never Sleep/Ch - 1 Let's Rock and Roll.md",
+    "z_books/The Market Never Sleep/Ch - 2 Stepping to the tune.md",
+    "z_books/The Market Never Sleep",
+    "Images USD JPY/Pasted Image 20250413164425_328.png",
+    "Patterns/SMA/Diary SMA.md",
+    "z_books",
+    "Patterns/SMA/SMA-50 fall and continue fall.md",
+    "Patterns/SMA/SMA-50 Already Direction.md",
+    "Patterns/Volume/Institutional_volume.md",
+    "Patterns/Triangle/Triangle.md",
     "Patterns/RSI/RSI Under Threshold.md",
+    "Patterns/RSI/RSI Outside Threshold.md",
+    "Trades GBP USD/GBPUSD 6-3-24.md",
+    "Patterns/RSI/RSI 3 Mountains.md",
+    "Patterns/Rising_Wedge/Rising wedge Success.md",
+    "Trades USD JPY/USDJPY 6-11-24.md",
+    "Patterns/Flag/Flag Delayed.md",
     "Patterns/Flag/Ideal Flag.md",
-    "Trades NZD CAD/NZDCAD 12-6-24.md",
     "Excalidraw/unknown/unknown_sma.md",
+    "Trades GBP USD/GBPUSD 3-11-24.md",
+    "Trades GBP USD/GBPUSD 10-4-24.md",
+    "Trades GBP USD/GBPUSD 21-2-24.md",
+    "Excalidraw/unknown/unknown_sideways.md",
     "Images NZD CAD/Pasted image 20250401215840.png",
     "Images NZD CAD/Pasted Image 20250401131239_199.png",
     "Images NZD CAD",
     "Trades NZD CAD",
-    "Patterns/SMA/SMA-50 Already Direction.md",
-    "Patterns/SMA/SMA-50 fall and continue fall.md",
-    "Patterns/RSI/RSI 3 Mountains.md",
-    "Excalidraw/unknown/unknown_RSI.md",
-    "Excalidraw/unknown/unknown_sideways.md",
-    "Excalidraw/unknown/unknown_N.md",
-    "Excalidraw/unknown/unknown_cup.md",
-    "Patterns/Volume/Institutional_volume.md",
-    "Patterns/Rising_Wedge/Rising wedge Success.md",
-    "Trades USD JPY/USDJPY 6-11-24.md",
-    "Patterns/Flag/Flag Delayed.md",
     "Images USD JPY/Pasted Image 20250324022538_259.png",
-    "Excalidraw/drawings/SMA-50 fall - side - fall.md",
     "Images GBP USD/GetImage (1).png",
     "Images GBP USD/Pasted image 20250330190627.png",
-    "Trades GBP USD/GBPUSD 10-4-24.md",
-    "Trades GBP USD/GBPUSD 6-3-24.md",
-    "Trades GBP USD/GBPUSD 3-11-24.md",
     "Images GBP USD/GetImage (2).png",
-    "Trades GBP USD/GBPUSD 21-2-24.md",
     "Images GBP USD/GetImage.png",
-    "Excalidraw/Drawing 2025-03-29 21.07.08.excalidraw.md",
     "Trades GBP USD",
     "Images GBP USD",
-    "_templates/Theories.md",
-    "_templates/Trade - {{date}}.md",
-    "Patterns/Flag/Flag Delayed1.md",
     "Trades USD JPY"
   ]
 }

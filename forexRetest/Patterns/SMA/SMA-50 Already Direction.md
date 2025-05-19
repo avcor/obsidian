@@ -8,12 +8,13 @@ tags:
 - Ideally you can take 3 trade, after first price hike 
 - Last momentum should be taken into consideration
 - This could be combined with [[RSI Under Threshold]] 
-	- Up Trend -> Price goes under trend 
+	- Up Trend -> If Price goes under trend line 
 	- Down Trend -> vice-versa 
 - (Experimental) If RSI is oversold in a trend, there could movement sideways for some time 
 
 ### Conditions
-- 1 month duration for a particular direction, after that there is side wave. At the end of month movement starts to change toward side waves.
+- At the end of month movement starts to change toward side waves or opp direction.
+- Price should not be in opp side of trend for too long (Sideways) also not a large movement should be allowed  
 - Up Trend 
 	- Up Trend -> Sideways -> Up Trend (low chances)  
 	- Up Trend -> Sideways -> Down Trend (mid chances)
