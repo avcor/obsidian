@@ -11,6 +11,7 @@ Hedging with a LEAP
 ### Strategies for managing risk while day trading 
 Worry about risk first then only consider reward
 Calculate risk of every trade 
-
 ### Manage the business and the money in a trading account 
+Rule of thumb author does not lose more than 1/3 Average Daily Range of stock.
+Amount that most likely to lost during trading session or week
 ### Review 
