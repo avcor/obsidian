@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"cb01b7a9c3f8948a","type":"text","text":"Inflation","x":-320,"y":-680,"width":140,"height":60},
+		{"id":"c72950a31652675d","type":"text","text":"Interest Rates","x":-350,"y":-781,"width":200,"height":60},
+		{"id":"425601c1563420a2","type":"text","text":"Equity","x":-64,"y":-680,"width":133,"height":60},
+		{"id":"832a31142b6ba713","type":"text","text":"Currency Market","x":-65,"y":-781,"width":205,"height":60},
+		{"id":"f56330b9a11e71be","type":"text","text":"Bonds","x":-23,"y":-880,"width":121,"height":60,"color":"4"},
+		{"id":"926d8f6d2a40cb03","type":"text","text":"Oil and Energy Price","x":-699,"y":-891,"width":250,"height":60,"color":"4"},
+		{"id":"59af86e2b08b0315","type":"text","text":"Geopolitical concern (Bad)","x":-699,"y":-680,"width":250,"height":60},
+		{"id":"07ae95dac5b651d5","type":"text","text":"Gold and Precious Metals","x":-700,"y":-781,"width":251,"height":60,"color":"4"},
+		{"id":"6df60376dfb9507c","type":"text","text":"6 Factors\n","x":-649,"y":-1001,"width":150,"height":50},
+		{"id":"a083c1b1575429bf","type":"text","text":"Dax (1:30 PM - 9:00 PM)","x":-824,"y":-341,"width":250,"height":60,"color":"4"},
+		{"id":"6276be12c1ab4b64","type":"text","text":"S&P 500 (Spyders)\nAMEX:SPY","x":-825,"y":-260,"width":250,"height":60,"color":"4"},
+		{"id":"a85511497cc89969","type":"text","text":"Nasdaq-100\nQQQQ","x":-825,"y":-180,"width":250,"height":60,"color":"4"},
+		{"id":"21df9e12b73c3e8d","type":"text","text":"Dow Jones (DJIA)\nAMEX:DIA (ETF)","x":-825,"y":-100,"width":250,"height":60,"color":"4"},
+		{"id":"77930019be1cc6eb","type":"text","text":"Hang Seng","x":-824,"y":-420,"width":250,"height":60},
+		{"id":"247e5513a854a7ea","type":"text","text":"Nikkei","x":-824,"y":-500,"width":250,"height":60},
+		{"id":"2bfecdbe8cc76e09","type":"text","text":"Fed","x":-303,"y":-921,"width":106,"height":60},
+		{"id":"1c5d5d8fe17bf638","type":"text","text":"Dollar","x":-23,"y":-976,"width":125,"height":60},
+		{"id":"dbfc35b83fe001a3","type":"text","text":"CPI","x":-389,"y":-530,"width":250,"height":60},
+		{"id":"3d6461471ae6978c","type":"text","text":"GDP","x":-389,"y":-450,"width":250,"height":60},
+		{"id":"5f27d283b405c831","type":"text","text":"PPI","x":-389,"y":-371,"width":250,"height":60},
+		{"id":"4def40976126c237","x":-389,"y":-290,"width":250,"height":60,"type":"text","text":"CCI"},
+		{"id":"b3c6d9f556425bf1","x":-389,"y":-200,"width":250,"height":60,"type":"text","text":"MCSI"},
+		{"id":"ed03b189e6709a6e","x":-607,"y":-1255,"width":250,"height":60,"color":"4","type":"text","text":"7 major markets "}
+	],
+	"edges":[
+		{"id":"66a830bc285f70d7","fromNode":"cb01b7a9c3f8948a","fromSide":"right","toNode":"425601c1563420a2","toSide":"left"},
+		{"id":"4c825bdc7026f25e","fromNode":"c72950a31652675d","fromSide":"bottom","toNode":"cb01b7a9c3f8948a","toSide":"top"},
+		{"id":"aa747c857eb631a7","fromNode":"c72950a31652675d","fromSide":"right","toNode":"f56330b9a11e71be","toSide":"left"},
+		{"id":"d1167576e496633e","fromNode":"c72950a31652675d","fromSide":"right","toNode":"832a31142b6ba713","toSide":"left"},
+		{"id":"2dec30a43b62032a","fromNode":"07ae95dac5b651d5","fromSide":"top","toNode":"926d8f6d2a40cb03","toSide":"bottom"},
+		{"id":"dbc958d57701e553","fromNode":"f56330b9a11e71be","fromSide":"right","toNode":"425601c1563420a2","toSide":"right"},
+		{"id":"569c6b35776c6c53","fromNode":"2bfecdbe8cc76e09","fromSide":"bottom","toNode":"c72950a31652675d","toSide":"top"},
+		{"id":"fe7a9e5328ae7f40","fromNode":"cb01b7a9c3f8948a","fromSide":"left","toNode":"07ae95dac5b651d5","toSide":"right"},
+		{"id":"f9535ac4c33e38bb","fromNode":"c72950a31652675d","fromSide":"right","toNode":"425601c1563420a2","toSide":"left"},
+		{"id":"834c646fd329359c","fromNode":"59af86e2b08b0315","fromSide":"left","toNode":"07ae95dac5b651d5","toSide":"left"},
+		{"id":"4907174fb66d10cb","fromNode":"c72950a31652675d","fromSide":"left","toNode":"07ae95dac5b651d5","toSide":"right"},
+		{"id":"835710f39d753138","fromNode":"c72950a31652675d","fromSide":"right","toNode":"1c5d5d8fe17bf638","toSide":"left"}
+	]
+}

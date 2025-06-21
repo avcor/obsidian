@@ -6,6 +6,7 @@
       {
         "id": "b9784a29fd607e97",
         "type": "tabs",
+        "dimension": 46.763959390862944,
         "children": [
           {
             "id": "0d4a8961a0f301fd",
@@ -13,12 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_books/The Market Never Sleep/Ch - 2 Stepping to the tune.md",
+                "file": "z_books/The Market Never Sleep/Ch - 9 Approaches to long-term trading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch - 2 Stepping to the tune"
+              "title": "Ch - 9 Approaches to long-term trading"
+            }
+          },
+          {
+            "id": "f134b05375837f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_books/The Market Never Sleep/Ch - 3 Getting in the Groove.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch - 3 Getting in the Groove"
             }
           }
         ]
@@ -26,19 +41,23 @@
       {
         "id": "69600528ff2ab892",
         "type": "tabs",
+        "dimension": 53.236040609137056,
         "children": [
           {
             "id": "5142410915c2aac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "z_books/The Market Never Sleep/final.md",
-                "mode": "source",
-                "source": false
+                "file": "z_books/The Market Never Sleep/Untitled.canvas",
+                "viewState": {
+                  "x": -347.7945158916137,
+                  "y": -566.7560917055982,
+                  "zoom": -0.3393616554655545
+                }
               },
-              "icon": "lucide-file",
-              "title": "final"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -191,24 +210,25 @@
   },
   "active": "0d4a8961a0f301fd",
   "lastOpenFiles": [
-    "z_books/The Market Never Sleep/Ch - 1 Let's Rock and Roll.md",
-    "z_books/The Market Never Sleep/final.md",
-    "z_books/The Market Never Sleep/Ch - 16 So you want to be a trader.md",
-    "z_books/The Market Never Sleep/Ch - 15 You still have time to sleep.md",
-    "z_books/The Market Never Sleep/Ch - 2 Stepping to the tune.md",
-    "z_books/The Market Never Sleep/_Index.md",
-    "z_books/The Market Never Sleep/Ch - 3 Getting in the Groove.md",
-    "z_books/The Market Never Sleep/Ch - 4 Land of the Rising Sun.md",
-    "z_books/The Market Never Sleep/Ch - 5 Land of Long Siesta.md",
-    "z_books/The Market Never Sleep/Ch - 14 Mind Over Matter.md",
-    "z_books/The Market Never Sleep/Ch - 13 Preparing for the trading day.md",
+    "z_books/The Market Never Sleep/Untitled.canvas",
+    "z_books/The Market Never Sleep/Ch - 9 Approaches to long-term trading.md",
     "z_books/The Market Never Sleep/Ch - 12 Consistency.md",
     "z_books/The Market Never Sleep/Ch - 11 Managing Risk in Global Market.md",
     "z_books/The Market Never Sleep/Ch - 10 Golden keys to unlocking the secrets of the financial markets.md",
-    "z_books/The Market Never Sleep/Ch - 9 Approaches to long-term trading.md",
-    "z_books/The Market Never Sleep/Ch - 7 Short-Term Strategies around the world.md",
+    "z_books/The Market Never Sleep/Ch - 16 So you want to be a trader.md",
     "z_books/The Market Never Sleep/Ch - 8 Swing Trading Strategies across Time Zones.md",
+    "z_books/The Market Never Sleep/Ch - 7 Short-Term Strategies around the world.md",
+    "z_books/The Market Never Sleep/Ch - 15 You still have time to sleep.md",
+    "z_books/The Market Never Sleep/Ch - 14 Mind Over Matter.md",
+    "z_books/The Market Never Sleep/Ch - 13 Preparing for the trading day.md",
+    "z_books/The Market Never Sleep/Ch - 3 Getting in the Groove.md",
+    "z_books/The Market Never Sleep/Ch - 2 Stepping to the tune.md",
+    "z_books/The Market Never Sleep/Ch - 5 Land of Long Siesta.md",
+    "z_books/The Market Never Sleep/Ch - 4 Land of the Rising Sun.md",
     "z_books/The Market Never Sleep/Ch - 6 The United States Steals the show.md",
+    "z_books/The Market Never Sleep/Ch - 1 Let's Rock and Roll.md",
+    "z_books/The Market Never Sleep/final.md",
+    "z_books/The Market Never Sleep/_Index.md",
     "z_books/The Market Never Sleep",
     "Images USD JPY/Pasted Image 20250413164425_328.png",
     "Patterns/SMA/Diary SMA.md",
@@ -219,7 +239,6 @@
     "Patterns/Triangle/Triangle.md",
     "Patterns/RSI/RSI Under Threshold.md",
     "Patterns/RSI/RSI Outside Threshold.md",
-    "Trades GBP USD/GBPUSD 6-3-24.md",
     "Images NZD CAD/Pasted image 20250401215840.png",
     "Images NZD CAD/Pasted Image 20250401131239_199.png",
     "Images NZD CAD",

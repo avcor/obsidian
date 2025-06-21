@@ -32,7 +32,7 @@
 	  Rising Interest rate -> higher yield for newly issued bonds 
 	  -> when traders believe that rates are topping off, many will buy them, because when they decline it will be golden and sold at premium. 
 	- Currency Market 
-	  Rates rate -> more foreign capital 
+	  Higher rate -> more foreign capital 
 	  Lower rate -> vice versa. May be better return in other places 
 	- www.federalreserve.gov for Interest rate info. 
 

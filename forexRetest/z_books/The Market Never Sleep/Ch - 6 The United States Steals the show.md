@@ -18,7 +18,7 @@ QQQQ ETFS
 ### US Markets dominate the after noon 
 Afternoon session is like dawn of a new day. 
 Traders evaluate morning actions and determine if they were correct. If Yes, then trend will be accelerated if not there will be reversal. 
-Trading between 12:30 PM and 1:30 PM is important. Price formed during this period is important, it is like reference point for next 24 hours. Price bar formed during this time is the point, If price moves up beyond this point then go long and if not then go short. Do this only if you see a strong move if not wait unit around 2:30 PM  
+Trading between 12:30 PM and 1:30 PM (11:00 PM -12:00 AM IST) is important. Price formed during this period is important, it is like reference point for next 24 hours. Price bar formed during this time is the point, If price moves up beyond this point then go long and if not then go short. Do this only if you see a strong move if not wait unit around 2:30 PM  (1:00 AM IST)
 
 ### Take Only calculate risk
 ### The world keeps turning 
