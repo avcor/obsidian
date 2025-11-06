@@ -1,0 +1,8 @@
+
+| Feature             | Concurrency                                                                                                               | Parallelism                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Execution**       | Tasks are in progress at the same time, but may not be running simultaneously on the same CPU.                            | Tasks are _literally_ running at the same time on different processors.                    |
+| **Processing Unit** | Can be achieved on a single CPU through task switching (time-slicing).                                                    | Requires multiple CPUs or CPU cores for simultaneous execution.                            |
+| **Goal**            | Improves responsiveness and interactivity by allowing an application to make progress on multiple tasks at the same time. | Improves speed and efficiency by executing tasks simultaneously.                           |
+| **Relationship**    | A broader concept that can include parallelism as a specific implementation.                                              | A specific, hardware-dependent implementation of concurrency that requires multiple cores. |
+| **Analogy**         | A single cashier serving multiple customers by quickly switching between them.                                            | Multiple cashiers serving different customers at the same time.                            |
