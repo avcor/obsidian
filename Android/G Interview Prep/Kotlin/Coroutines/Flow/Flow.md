@@ -5,7 +5,7 @@ It is a reactive stream,
 	asynchronously produces and consume without blocking the main thread
 - sequential 
 	- operation on flow are sequential and run in same coroutines where collection happens 
-	- ==You can make it parallel using flatMerge==
+	- ==You can make it parallel using `flatMerge`==
 ``` kotlin
 fun sequentialExample() = runBlocking {
     (1..3).asFlow()
