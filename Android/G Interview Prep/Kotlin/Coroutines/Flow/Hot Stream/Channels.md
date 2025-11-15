@@ -66,14 +66,3 @@ Starting race between two data sources... Race finished. The selected result is:
 */
 ```
 
-## Difference Flow and Channels 
-| **Feature**     | **Kotlin Flow**                                              | **Kotlin Channel**                                                           |
-| --------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------- |
-| **Nature**      | **Cold** (Passive)                                           | **Hot** (Active)                                                             |
-| **Execution**   | **Sequential**                                               | **Concurrent/Producer-Consumer**                                             |
-| **Start**       | Starts producing only **when collected** (`collect()`).      | Starts sending/buffering immediately **after creation** (by the producer).   |
-| **Delivery**    | **Unicast** (each collector gets the full stream).           | **Unicast** (depending on type, but standard is **Unicast** point-to-point). |
-| **Consumption** | Must be consumed via a suspending function like `collect()`. | Must be consumed via a suspending function like `receive()`.                 |
-
-## `BroadCastChannels`
-it is replaced by `SharedFlow`

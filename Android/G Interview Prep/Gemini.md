@@ -31,16 +31,16 @@ This section tests your core understanding of how an Android app is structured a
 
 This is crucial for demonstrating the ability to build scalable, testable, and maintainable applications.
 
-| Topic | Key Question Aspects to Deep Dive |
-| :--- | :--- |
-| **Design Patterns** | ❓ **Android Patterns:** Explain **MVC, MVP, MVVM**. Compare their pros and cons (**testability**, boilerplate, separation of concerns). |
-| **Modern Architecture** | ❓ **Android Architecture Components (AAC):** Deeply explain **LiveData** and **ViewModel**. What problem does `ViewModel` solve? |
-| | ❓ **Repository Pattern:** Explain its role in separating data sources from the business logic. |
-| | ❓ **MVI (Model-View-Intent):** Be prepared to discuss more modern or alternative patterns. |
-| **Dependency Injection (DI)** | ❓ **Concepts:** Explain DI and the **Service Locator** pattern. |
-| | ❓ **Tools:** Discuss **Hilt/Dagger** (or Koin if you have experience). Be ready to explain **scopes**, **components**, and **modules**. |
-| **Threading & Concurrency** | ❓ **Concurrency Tools:** Explain the difference between **Async Task, Handler, Looper, HandlerThread, Executors** (modern recommendation). |
-| | ❓ **Kotlin Coroutines:** This is the **most likely focus**. Explain **Dispatchers**, **Structured Concurrency** (`SupervisorJob`, `CoroutineScope`), and **Flows** (`StateFlow`, `SharedFlow`). |
+| Topic                         | Key Question Aspects to Deep Dive                                                                                                                                                               |
+| :---------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Design Patterns**           | ❓ **Android Patterns:** Explain **MVC, MVP, MVVM**. Compare their pros and cons (**testability**, boilerplate, separation of concerns).                                                         |
+| **Modern Architecture**       | ❓ **Android Architecture Components (AAC):** Deeply explain **LiveData** and **ViewModel**. What problem does `ViewModel` solve?                                                                |
+|                               | ❓ **Repository Pattern:** Explain its role in separating data sources from the business logic.                                                                                                  |
+|                               | ❓ **MVI (Model-View-Intent):** Be prepared to discuss more modern or alternative patterns.                                                                                                      |
+| **Dependency Injection (DI)** | ❓ **Concepts:** Explain DI and the **Service Locator** pattern.                                                                                                                                 |
+|                               | ❓ **Tools:** Discuss **Hilt/Dagger** (or Koin if you have experience). Be ready to explain **scopes**, **components**, and **modules**.                                                         |
+| **Threading & Concurrency**   | ❓ **Concurrency Tools:** Explain the difference between **Async Task, Handler, Looper, HandlerThread, Executors** (modern recommendation).                                                      |
+|                               | ❓ **Kotlin Coroutines:** This is the **most likely focus**. Explain **Dispatchers**, **Structured Concurrency** (`SupervisorJob`, `CoroutineScope`), and **Flows** (`StateFlow`, `SharedFlow`). |
 
 ---
 
