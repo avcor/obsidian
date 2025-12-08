@@ -4,13 +4,12 @@
 - [[Compose Rules]]
 - Stability & identity
 - How keys work in LazyColumn
-- [[Remember|Why `remember` is tied to composition]]
+- [[remember|Why `remember` is tied to composition]]
 ### **✔ Layout System**
-- How Compose measures and lays out children
-- Intrinsic measurements
-- Custom Layouts with `Layout {}`
-- SubcomposeLayout (very important for performance-heavy components)
-- Constraints and alignment lines
+- [[How compose measure and lay out children]]
+- [[Intrinsic measurement]]
+- [[How compose measure and lay out children]]
+- [[Subcompose Layout]]
 ### **✔ State & Snapshot System**
 - rememberSaveable, mutableStateOf, derivedStateOf
 - State, State hoisting
@@ -27,10 +26,8 @@
 - [[launchedEffect]]
 -  [[rememberCoroutineScope]]
 - [[disposableEffect]]
-- `rememberUpdatedState`
-- `SideEffect`
-- `produceState`
-- `snapshotFlow`
-
-Not a side effect but it is important 
-[[derievedStateOf]]
+- [[produceState]]
+- [[sideEffect]]
+- [[rememberUpdateState]]
+- [[snapshotFlow]]
+Not a side effect but it is important  - [[derievedStateOf]]
