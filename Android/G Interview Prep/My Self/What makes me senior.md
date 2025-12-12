@@ -1,0 +1,4 @@
+- I spend more time reading code writing it and more time than deleting it. 
+- I do not need clever fixes, my focus is on that someone can maintain this 
+- Require few comments because function names makes sense 
+- Do not believe in quick fixes 
