@@ -1,4 +1,3 @@
-*Note : This is not side effect*
 It decides the state on the basis of one or more states and only triggering if recomposition if result is changed. 
 
 ## Key characteristics 

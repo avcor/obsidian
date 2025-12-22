@@ -1,3 +1,5 @@
+- It is used to preserve state across recomposition
+- Does not survive configuration change or process death 
 ## Why remember is tied to composition 
 `remember` store a value in the composition [[#Slot]] for the current composable which survives the re-composition but it is cleared when the composable leaves the composition.
 
@@ -27,3 +29,12 @@ fun ProfileEditor(userId: Int) {
     }
 }
 ```
+
+## With `MutableState`
+It is way to hold observable state
+``` kotlin 
+// creation
+val counter = mutableStateOf(0)
+
+// delegation 
+var count by remember { mutableStateOf(0) } // Reading: count (reads value) // Writing: count = 1 (writes value)

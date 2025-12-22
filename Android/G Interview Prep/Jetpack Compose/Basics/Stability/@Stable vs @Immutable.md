@@ -1,6 +1,6 @@
 ## Stable 
 - **Promise** - It is a contract that tell the compose that the properties of the object or the object will not change without compose being notified. 
-- A @Stable object might contain the mutable properties as long as they are Compose's observable state types like [[State#`MutableState`| mutable state]] or `SnapShotStateList`
+- A @Stable object might contain the mutable properties as long as they are Compose's observable state types like [[State3#`MutableState`| mutable state]] or `SnapShotStateList`
 - **Use** - when object have mutable properties internally, but those changes can be observed by Compose 
 
 ## Immutability 
