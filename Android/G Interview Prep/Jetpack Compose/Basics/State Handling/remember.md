@@ -1,5 +1,9 @@
 - It is used to preserve state across recomposition
-- Does not survive configuration change or process death 
+- Does not survive configuration change or process death because `remember` only lives as long as composable stays in the composition. Leaving the composition = state is being disposed.
+  Why does it do that 
+	- Memory leaks would be there.
+	- It would not know when to release memory 
+	- Dynamic list  explode memory 
 ## Why remember is tied to composition 
 `remember` store a value in the composition [[#Slot]] for the current composable which survives the re-composition but it is cleared when the composable leaves the composition.
 
