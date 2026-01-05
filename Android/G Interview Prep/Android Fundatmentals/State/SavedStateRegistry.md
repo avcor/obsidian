@@ -7,7 +7,7 @@ When the process dies, tell me what small pieces of state should I need to resto
 - It does not know nothing about `LiveData`, `ViewModel`, `Compose`
 ## Core Responsibility 
 - Let component register [[#State provider]]
-- Collect those bundle during [[Saved Instance#`onSavedInstanceState(outState Bundle)`|onSavenstanceState]] 
+- Collect those bundle during [[Save Instance#`onSavedInstanceState(outState Bundle)`|onSavenstanceState]] 
 - Give them during recreation 
 ## Flow
 - System kills the process

@@ -3,7 +3,7 @@ It is important to understand that first activity is not completely stopped befo
 A `onPause()` - B `onCreate()` `onStart()` `onResume()` - A `onStop()`
 ## onCreate()
 - Startup logic that happens only once for entire lifecycle of activity. Associate the activity with a `ViewModel`, instantiate some class scoped variable and inflate some views. 
-- Receives [[Saved Instance|savedInstanceState]] if new null otherwise bundle from previously saved state.
+- Receives [[Save Instance|savedInstanceState]] if new null otherwise bundle from previously saved state.
 ## onStart()
 - App prepare the activity to enter foreground and become interactive 
 - It is needed because when activity goes fully hidden & then comes back to foreground it need to come `onStart()` 

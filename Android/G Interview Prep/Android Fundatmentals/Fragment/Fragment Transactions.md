@@ -29,3 +29,4 @@ The Fragment Manager ensures that fragment being added to activity is in a valid
 - Fragment transaction you have committed after system kills the app, will simply disappear.
 - It is used for non critical UI changes where missing fragment wont break app logic 
 
+Next - [[Fragment Transactions code]]

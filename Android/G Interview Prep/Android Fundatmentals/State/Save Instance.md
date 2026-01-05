@@ -31,6 +31,8 @@ Bundle requires serialization on main thread and consumes system-process memory
 	- May not be called 
 	- Heavy bundles may be dropped 
 	- Serialization cost 
+### observation 
+`onSavedInstanceState` is called after `onStop()` even when we navigate to new screen but does not call `onRestoreInstanceState()` when we come back 
 ## What does android do automatically 
 - `EditText` text
 - `ScrollView` position 

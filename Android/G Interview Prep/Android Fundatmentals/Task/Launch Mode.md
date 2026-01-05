@@ -26,3 +26,4 @@ Because it silently clears above activities, break expected back navigation and 
 	- Rare in normal apps.
 	- [[Task & Back Stack#Task#Why Android allow multiple task]]
 	- Misusing it can fragment the user experience by creating unexpected task, breaking back navigation and causing confusing behavior in recent. 
+	- Note - just adding this flag wont create different entry point in recents app drawer

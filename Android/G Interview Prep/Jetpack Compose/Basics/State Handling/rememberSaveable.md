@@ -1,4 +1,4 @@
-similar to [[remember]] uses **Saved State Mechanism ([[Saved Instance#`onSavedInstanceState(outState Bundle)`]])** to persist state across process death 
+similar to [[remember]] uses **Saved State Mechanism ([[Save Instance#`onSavedInstanceState(outState Bundle)`]])** to persist state across process death 
 
 - Saves value into [[SavedStateRegistry]]
 - Uses bundle under the hood 

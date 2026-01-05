@@ -11,7 +11,7 @@ Any data that influence what the user sees or can do. It influences the UI.
 ### 3.  Process death lifetime 
 - Survive graceful OS killing app
 - E.g. 
-	- [[Saved Instance]] 
+	- [[Save Instance]] 
 	- [[rememberSaveable]]
 ### 4. App lifetime / Persistent 
 - Survive app restart 
