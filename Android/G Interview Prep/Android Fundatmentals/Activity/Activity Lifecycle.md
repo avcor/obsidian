@@ -1,8 +1,9 @@
 Go through [[Lifecycle - aware components]]
-It is important to understand that first activity is not completely stopped before second one is created. If two activities are in same process then 
+First activity is not completely stopped before second one is created. If two activities are in same process then 
 A `onPause()` - B `onCreate()` `onStart()` `onResume()` - A `onStop()`
 ## onCreate()
-- Startup logic that happens only once for entire lifecycle of activity. Associate the activity with a `ViewModel`, instantiate some class scoped variable and inflate some views. 
+- Startup logic that happens only once for entire lifecycle of activity.
+- Associate the activity with a `ViewModel`, instantiate some class scoped variable and inflate some views. 
 - Receives [[Save Instance|savedInstanceState]] if new null otherwise bundle from previously saved state.
 ## onStart()
 - App prepare the activity to enter foreground and become interactive 
@@ -13,7 +14,6 @@ A `onPause()` - B `onCreate()` `onStart()` `onResume()` - A `onStop()`
 ## onResume()
 - Activity comes to foreground and remains in this state until it goes away from focus.
 - In Split screen mode two apps are visible but only one has user's focus 
-- LifeCycle aware component receives ON_RESUME
 ### Uses 
 - If user has focus then only start camera preview 
 ## onPause()

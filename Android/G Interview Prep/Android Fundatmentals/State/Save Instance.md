@@ -12,7 +12,6 @@ Bundle requires serialization on main thread and consumes system-process memory
 - View(Text) may be not resorted yet could risk of crashing  
 ## `onRestoreInstanceState(savedInstanceState)`
 **Restoration Phase**
-- It is a recreation after destruction this avoids mixing logic
 - It exists because android needs a lifecycle callback that run only when state is being restored and view hierarchy is ready. 
 - This give framework and developer guaranteed points  
 	- Called only if state have to restore 
