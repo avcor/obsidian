@@ -1,8 +1,17 @@
 Fragment have 2 lifecycle - object and view 
+
+>A Fragment’s **identity and state** may outlive its **view**, because the view is a _rendering artifact_, not the owner of state.
 ## Why android need this 
-Because navigation demands this 
-- Fragment A -> Fragment B. A is put on back stack 
-- Android keep A's state & destroy A' view to save memory 
+- Android wants 
+	- Keep fragment state 
+	- Destroy view aggressively to save memory 
+	- To preserve 
+		- Navigation State 
+		- Business/ UI logic state 
+		- [[Fragment BackStack]] identity 
+- Because navigation demands this 
+	- Fragment A -> Fragment B. A is put on back stack 
+	- Android keep A's state & destroy A' view to save memory 
 ## Scenarios of crash 
 Generally developer do this `lateinit var binding: FragmentExampleBinding` 
 Fragment goes to back stack, `onDestoryView()` run and views are destroyed, binding still points to dead view. 

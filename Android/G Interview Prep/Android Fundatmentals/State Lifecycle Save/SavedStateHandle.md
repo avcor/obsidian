@@ -1,3 +1,6 @@
+>Adapter injected into `ViewModel`
+>Restoration happens before `ViewModel is created`
+
 *Note - State must be simple and lightweight. For complex and large data use local persistence* 
 - Google Introduced this because 
 	- [[Save Instance#`onSavedInstanceState(outState Bundle)`]] is unreliable, logic scattered across activity is bad architecture, **View Model need controlled persistence**. 

@@ -1,7 +1,11 @@
 ## Why Fragment exist 
+- It is there to solve hard android problems 
+	- Dynamic UI composition 
+	- Back Stack management 
+	- Lifecycle consistency across configuration changes
 - One Activity represent one screen, when user navigate activity switches 
 - Tablets needs multiple panel
-- Fragments are sub controller inside an activity.
+- Fragments are sub controller inside an activity (**UI state machine**).
 	- Activity owns window, task, system focus
 	- Fragments owns portion of UI + its logic
 - Fragments in activities 
