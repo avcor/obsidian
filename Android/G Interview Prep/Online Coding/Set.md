@@ -1,0 +1,3 @@
+- `val set = hashSetOf<Int>()`
+- `set.contains(5)`
+- `set.add(2)`

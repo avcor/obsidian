@@ -1,0 +1,6 @@
+- `val maxHeap = PriorityQueue<Int>(compareByDescending{it})
+- `val maxHeap = PriorityQueue<Int>() {a,b -> b-a} 
+- `minQ.add(`val`)`
+- `minQ.poll()`
+- `minQ.peek()`
+- 

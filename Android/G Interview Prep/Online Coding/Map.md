@@ -1,12 +1,6 @@
-- `getOrDefault`
-- `getOrPut`
-
-## Priority Queue 
-``` kotlin
-val maxHeap = PriorityQueue<Int>(compareByDescending { it })
-
-val minQ = PriorityQueue<Int>()
-minQ.add(`val`)
-minQ.poll()
-minQ.peek()
-```
+- `val mMap = mutableMapOf("one" to 1, "two" to 2)`
+- `val mMap = mutableMapOf<String, Int>()`
+- `get("one")`
+- `getOrDefault("four", 4)`
+- `getOrPut`("four", 4)
+- `add("one")`
