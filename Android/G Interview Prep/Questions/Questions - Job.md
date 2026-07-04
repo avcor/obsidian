@@ -7,3 +7,4 @@
 7. Do you write the test cases and how much these things matter you?  Will you let it slide when pressure rises (in production app or serious work, not in PUC)
 8. How do you maintain work life balance and how do you balance things out if unexpected things comes in off time or there is an urgent requirement. 
 9. What are your thoughts on "Code does not matter, only it should run"?
+10. I started asking whether it would increase my value in the market three years later,

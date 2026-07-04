@@ -1,0 +1,5 @@
+- Think of it as prefix sum 
+- Idea is you build structure once - answers any future queries frequently. 
+- You have combine with [[Hash Maps & Sets]] 
+	- Gives questions to what index I find it 
+	- Store other information 

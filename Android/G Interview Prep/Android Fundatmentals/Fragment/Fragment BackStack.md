@@ -1,3 +1,5 @@
+> It is a data structure that used to record the fragment transactions 
+
 - It Is managed by Fragment Manager 
 - Exists inside one activity 
 - Replays fragment transaction, not lifecycle history. 

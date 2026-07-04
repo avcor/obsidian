@@ -1,4 +1,4 @@
-It store the latest value without restating the effect.
+It store the reference of latest value without restarting the effect.
 
 ## Characteristics 
 - It creates the reference to most recent value of state 

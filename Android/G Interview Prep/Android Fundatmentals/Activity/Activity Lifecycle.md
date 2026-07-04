@@ -1,4 +1,4 @@
-Go through [[Lifecycle - aware components]]
+Go through [[Lifecycle]]
 First activity is not completely stopped before second one is created. If two activities are in same process then 
 A `onPause()` - B `onCreate()` `onStart()` `onResume()` - A `onStop()`
 ## onCreate() 

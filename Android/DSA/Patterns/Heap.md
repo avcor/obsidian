@@ -1,0 +1,2 @@
+- It will min or max heap
+- Whenever you need min or max element out of lot of input data 

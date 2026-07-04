@@ -1,0 +1,3 @@
+- Find the contiguous element 
+- Find K elements that exist together 
+- 

@@ -1,0 +1,2 @@
+- If I do not want to recompute every time 
+- You are starting from some set, then it branched of some different set .

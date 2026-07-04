@@ -7,5 +7,5 @@
 |
 | 
 ## `ComponentActivity`
-- Implements [[Lifecycle - aware components#`LifeCycleOwner`|LifeCycleOwner]]
-- Internally use [[Lifecycle - aware components#`LifecycleRegistry`|LifeCycleRegistry]] for managing lifecycle 
+- Implements [[Lifecycle#`LifeCycleOwner`|LifeCycleOwner]]
+- Internally use [[Lifecycle#`LifecycleRegistry`|LifeCycleRegistry]] for managing lifecycle 

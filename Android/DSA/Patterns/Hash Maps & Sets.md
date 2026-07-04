@@ -1,0 +1,3 @@
+- Finding duplicate numbers 
+- Counting frequencies 
+- Grouping elements 

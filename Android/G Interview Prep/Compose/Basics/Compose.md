@@ -1,3 +1,7 @@
+## Model
+- Compose records state during composition 
+- When state changes - it invalidate those reads [[#Scopes]]
+- Then re-composition happens only when needed
 ## Declarative(Compose) vs Imperative(XML) UI
 - Declarative 
 	- It is a function of state `UI = f(state)`
@@ -10,4 +14,6 @@
 	- Null pointer Exception if not found using `findViewById` or forget to initialize.
 	- Bidirectional Flow - Input/Output are handled manually 
 
-
+## Scopes
+- Composable that reads state 
+- These scopes establish dependency graph

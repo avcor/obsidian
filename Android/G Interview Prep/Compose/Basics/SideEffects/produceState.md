@@ -4,7 +4,7 @@ It is a function that is used to convert non - composable state (flow, live data
 *A produce state is just composable with [[remember]] and [[launchedEffect]]* 
 ## Characteristics 
 - State production - It launches a coroutines  in which you can call a suspend function and emit multiple values. **Coroutines is similar to [[launchedEffect]]  coroutine scope** 
-- Return Type - It return `State<T>` object. Reading it trigger recomposition 
+- Return Type - It return `State<T>` object. Reading it will trigger recomposition 
 - Key - It triggers when Key is started 
 
 ## Example with `produceState`

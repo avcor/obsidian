@@ -1,0 +1,2 @@
+- Generally binary search is applied to problem 
+- Sometimes you need to apply binary to answer space.

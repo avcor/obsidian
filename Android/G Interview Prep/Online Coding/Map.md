@@ -2,5 +2,5 @@
 - `val mMap = mutableMapOf<String, Int>()`
 - `get("one")`
 - `getOrDefault("four", 4)`
+- `val v = map.getOrElse(h) { 0 }`
 - `getOrPut`("four", 4)
-- `add("one")`

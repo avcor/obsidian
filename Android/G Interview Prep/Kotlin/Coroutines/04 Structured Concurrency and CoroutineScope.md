@@ -42,7 +42,7 @@ lifecycleScope.launch {
 - when lifecycle enter `STARTED` (`onStart`) - launches a new coroutine inside. 
 - when lifecycle goes below `STARTED` (`onStop`) inner coroutine is cancelled
 - when lifecycle comes back `STARTED` launches new coroutine
-*Note - Referring to [[Lifecycle - aware components]] as lifecycle above* 
+*Note - Referring to [[Lifecycle]] as lifecycle above* 
 
 ### What problem does it solves 
 - It prevent updating the UI when view is destroyed, causing a crash or memory leaks. 

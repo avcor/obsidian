@@ -14,6 +14,11 @@ This will result in
 - Invalid UI logic 
 - Illegal state access 
 - Can break lifecycle assumption
+```
+Step 1: remove A → A.onPause(), A.onStop(), A.onDestroyView()  
+Step 2: (gap here ⚠️)  
+Step 3: add B → B.onCreateView(), B.onStart(), B.onResume()
+```
 What batching ensures Old UI exist or New UI exist. Never half applied state. This is **Atomic UI updates**.
 ## commitNow
 `commitNow()` trades lifecycle safety for immediacy. It is dangerous because it can trigger 
