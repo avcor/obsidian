@@ -1,0 +1,10 @@
+- Repeated lookup → HashMap / Set
+- Repeated range calculation → Prefix Sum
+- Repeated minimum/maximum → Heap / Monotonic structure
+- Searching an ordered answer → Binary Search
+- Exploring states → BFS / DFS
+- Repeated overlapping states → DP
+- Need contiguous region → Sliding Window / Two Pointers
+- Need choices + constraints → Backtracking
+- Need optimal local decisions → Greedy
+- Need relationships → Graph

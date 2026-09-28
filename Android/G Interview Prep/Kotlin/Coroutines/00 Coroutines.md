@@ -4,12 +4,14 @@
 ## 2.Process 
 - Instance of program running in memory 
 - Process Id 
+- Process has memory, resources, threads, heap, code
 - State - New, Run, Ready, Pause, Terminate
 - Runs in memory with help of thread
 ## 3.Thread
 - Smallest unit of execution within a process 
 - These are heavy has its own stack of memory ~2MB or 1MB
 - There are finite number of thread that we can make depending on system.
+- Thread can share memory within a process, therefore they can communicate effectively. 
 ## 4.Coroutines
 - These are programming block that allows to write asynchronous, non blocking code sequentially.
 - These are lightweight threads but not exactly threads 

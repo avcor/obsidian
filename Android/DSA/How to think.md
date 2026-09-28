@@ -1,9 +1,18 @@
-## Clarify 
-- Input Size 
-- Edge Cases (null, empty)
-## Brute Force 
-- Always start simple 
-## Optimize 
-- Improve time/space 
-## Code cleanly 
-## Test Manually 
+## 1. Read (2 - 3 min)
+Ask:
+- What exactly is being asked ? 
+- What are constraints - Input size, Edge Cases (null, empty) ?
+- What brute force would look like ?
+- What makes brute force too slow ?
+
+## 2. Build Brute Force (5 min)
+- Important because gap b/w brute and optimal tells what technique you need.
+- Do not write code every time. 
+- But you can write pseudocode or explain verbally.
+*Code only optimal solution*
+
+## 3. Find bottleneck (5-10 min) 
+- What operations I am repeatedly doing ? 
+- Look at [[Pattern]]
+- Optimise time and space
+## 4. Code 
