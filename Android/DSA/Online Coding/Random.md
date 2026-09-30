@@ -1,0 +1,1 @@
+- `(0..set.size-1).random()`

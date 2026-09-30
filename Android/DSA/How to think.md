@@ -12,6 +12,7 @@ Ask:
 *Code only optimal solution*
 
 ## 3. Find bottleneck (5-10 min) 
+- What property does the input give me that I can exploit?
 - What operations I am repeatedly doing ? 
 - Look at [[Pattern]]
 - Optimise time and space

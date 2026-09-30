@@ -4,3 +4,4 @@
 - `getOrDefault("four", 4)`
 - `val v = map.getOrElse(h) { 0 }`
 - `getOrPut`("four", 4)
+- `map.remove("value")`

@@ -1,4 +1,5 @@
 - `val minStack = arrayListOf<Int>()`
+- `list.add(0,"lol")`
 - `minStack.lastOrNull()`
 - `removeLast()` Exception thrown `NoSuchElementException`
 - `positionSpeed.sortByDescending {it.position}`
